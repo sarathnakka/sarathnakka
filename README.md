@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://sarathnakka.github.io/portfolio-sarath-react/](https://sarathnakka.github.io/portfolio-sarath-react/)
+- 👨‍💻 All of my projects are available at [https://sarathnakka.github.io/portfolio-sarath/](https://sarathnakka.github.io/portfolio-sarath/)
 
 - 💬 Ask me about **React, Android**
 
